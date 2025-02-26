@@ -41,3 +41,12 @@ Thumbs.db
 /dist-sass/
 /js/coverage/
 /node_modules/
+
+# TODO(Astro migration): Rename or remove later
+/site-new/dist
+# TODO(Astro migration): This could be avoided by modifying the other node_modules ignore rule.
+/site-new/node_modules
+# TODO(Astro migration): Rename later
+/site-new/.astro
+# TODO(Astro migration): Rename later
+/site-new/public
